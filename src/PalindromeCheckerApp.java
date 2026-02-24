@@ -20,5 +20,9 @@ public class PalindromeCheckerApp {
         } else {
             System.out.println(word + " is NOT a Palindrome");
         }
+
+        // UC3 — Print Hardcoded Result
+        System.out.println("madam is a Palindrome");
+
     }
 }
